@@ -1,4 +1,4 @@
-##!!!!After downloading do "npm install" then do "npm run dev" to start the tool!!!!
+## After downloading do "npm install" then do "npm run dev" to start the tool
 
 
 
