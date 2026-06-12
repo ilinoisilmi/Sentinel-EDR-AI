@@ -1,3 +1,8 @@
+##!!!!After downloading do "npm install" then do "npm run dev" to start the tool!!!!##
+
+
+
+
 Sentinel is a single-page React app that recreates a full security operations center across seven modules — process monitoring, network defense, email/phishing analysis, ML-driven analytics, API gateway scoring, file-integrity/ransomware detection, and threat intelligence.
 
 Each module pairs a realistic, animated attack scenario with a plain-English explanation of what's happening and how the detection actually works — making it equally useful as a learning tool, a demo, or a UI/animation showcase.# 🛡️ Sentinel — Interactive XDR / SOC Console
